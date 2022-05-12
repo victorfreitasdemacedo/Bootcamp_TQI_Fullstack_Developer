@@ -1,14 +1,13 @@
-# Aula sobre git
+# Instalação e configuração do git e github
 
 
- 1 - instalação do git 
-- instalação do windows 
-- instalaçãod do linux
+1. instalação do git 
+   1. instalação do windows 
+   1. instalaçãod do linux
+2. criação de conta no github
+   1. criação da chave ssh
+   1. inserir a chave ssh no github
+   1. configurar o ssh da maquina
+3. criação de repositorio
 
-2 - criação de conta no github
-- criação da chave ssh
-- inserir a chave ssh no github
-- configurar o ssh da maquina
-- criação de repositorio
-
-3 - vincular e clonar projetos
+4. vincular e clonar projetos
