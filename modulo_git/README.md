@@ -17,9 +17,14 @@
       ```
    1. criar conta no github \
       [site do para cadastro do github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-   1. inserir a chave ssh no github
-   
+   1. inserir a chave ssh no github\
+      ```
+      Settings -> ssh and gpg keys -> new ssh key
+      ```
    1. configurar o ssh da maquina
+   ```
+   eval $(ssh-agent)
+   ```
 3. criação de repositorio
 
 4. vincular e clonar projetos
